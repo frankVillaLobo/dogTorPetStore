@@ -1,0 +1,49 @@
+#banner {
+	display: flex;
+	width: 100%;
+	height: 400px;
+	justify-content: space-between;
+}
+
+#anuncios {
+	display: flex;
+	font-weight: bold;
+
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#main-anuncio {
+	width: 80%;
+	background-color: #7ac750;
+	color: white;
+	font-weight: bold;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+}
+
+#anuncio {
+	font-weight: 600;
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 12px;
+}
+
+#anuncio img {
+	height: 60%;
+	width: 10%;
+	align-self: center;
+	margin-right: 10px;
+}
+
+#banner-img {
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+#banner-img img {
+	width: 100%;
+	height: 95%;
+}

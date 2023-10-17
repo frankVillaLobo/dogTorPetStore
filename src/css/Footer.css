@@ -1,0 +1,27 @@
+#Footer {
+	display: flex;
+	background-color: #7ac750;
+	color: white;
+	font-weight: bold;
+	padding: 20px;
+	height: 100px;
+}
+
+#pago-seguro {
+	width: 40%;
+}
+
+#info-footer {
+	padding-left: 20px;
+	margin-bottom: 40px;
+	width: 40%;
+}
+
+#download-info {
+	display: flex;
+	flex-direction: column;
+	width: 10%;
+}
+#download-info img {
+	margin: 5%;
+}
