@@ -1,0 +1,57 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo {
+	display: flex;
+	color: #7ac750;
+	justify-content: space-around;
+}
+
+#categorias {
+	text-align: center;
+	color: #7ac750;
+	display: flex;
+	justify-content: space-around;
+	padding-left: 70px;
+}
+
+#page {
+	display: flex;
+	justify-content: center;
+}
+
+#producto-lista {
+	text-align: center;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	justify-content: space-around;
+	width: 80%;
+	padding: 20px;
+}
+
+.producto {
+	padding: 20px;
+}
+
+.producto p {
+	text-align: left;
+	padding-left: 30px;
+}
+
+#categ-producto {
+	color: #cbcbcb;
+	font-size: 9px;
+}
+
+#nombre-producto {
+	color: #a4a4a4;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#precio-producto {
+	color: #7ac750;
+	font-size: 16px;
+	font-weight: 700;
+}

@@ -1,4 +1,6 @@
 import React from 'react';
+
+//img
 import BannerIMG from '../img/bannerIMG.png';
 
 //Iconos
