@@ -29,48 +29,56 @@ const Productos = () => {
 						<p id='categ-producto'>Juguetes y pañoletas</p>
 						<p id='nombre-producto'>Pañoleta superheroe</p>
 						<p id='precio-producto'>COP$ 16.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Alimento1} alt='alimento1'></img>
 						<p id='categ-producto'>Alimentos</p>
 						<p id='nombre-producto'>DogChow Alimento</p>
 						<p id='precio-producto'>COP$ 25.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Alimento2} alt='alimento2'></img>
 						<p id='categ-producto'>Alimentos</p>
 						<p id='nombre-producto'>Doncan Alimento</p>
 						<p id='precio-producto'>COP$ 29.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Alimento3} alt='alimento3'></img>
 						<p id='categ-producto'>Juguetes y pañoletas</p>
 						<p id='nombre-producto'>Pañoleta superheroe</p>
 						<p id='precio-producto'>COP$ 31.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Dentalife} alt='dentalife'></img>
 						<p id='categ-producto'>Medicamentos</p>
 						<p id='nombre-producto'>Dentalife</p>
 						<p id='precio-producto'>COP$ 82.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={DentaStix} alt='dentastix'></img>
 						<p id='categ-producto'>Medicamentos</p>
 						<p id='nombre-producto'>DentaStix</p>
 						<p id='precio-producto'>COP$ 74.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Locion} alt='locion'></img>
 						<p id='categ-producto'>Estética</p>
 						<p id='nombre-producto'>Loción para mascotas</p>
 						<p id='precio-producto'>COP$ 33.900</p>
+						<button>Agregar al carrito</button>
 					</div>
 					<div class='producto'>
 						<img src={Nextgard} alt='nextgard'></img>
 						<p id='categ-producto'>Medicamentos</p>
 						<p id='nombre-producto'>NextGuard</p>
 						<p id='precio-producto'>COP$ 101.700</p>
+						<button>Agregar al carrito</button>
 					</div>
 				</div>
 			</div>

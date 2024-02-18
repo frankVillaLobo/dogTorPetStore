@@ -29,9 +29,31 @@
 	width: 80%;
 	padding: 20px;
 }
+#producto-lista img {
+	height: 200px;
+}
 
 .producto {
 	padding: 20px;
+}
+
+.producto button {
+	background-color: #7ac750; /* Fondo gris */
+	color: #ffffff; /* Texto blanco */
+	border: 1px solid #7ac750; /* Borde gris */
+	border-radius: 5px; /* Bordes redondeados */
+	padding: 10px 20px; /* Espacio interno */
+	text-align: center; /* Centrar texto */
+	text-decoration: none; /* Quitar subrayado */
+	display: inline-block; /* Mostrar como elemento en línea */
+	font-size: 16px; /* Tamaño de fuente */
+	cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+	transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+.producto button:hover {
+	background-color: #9bf765; /* Cambio de color al pasar el ratón */
+	color: #ffffff; /* Texto blanco */
 }
 
 .producto p {
