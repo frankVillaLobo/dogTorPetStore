@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/Productos.css';
+import Footer from './Footer';
 
 //productos para mockup
 import Perro from '../img/perro1.png';
@@ -82,6 +83,7 @@ const Productos = () => {
 					</div>
 				</div>
 			</div>
+			<Footer />
 		</div>
 	);
 };

@@ -52,8 +52,8 @@
 }
 
 .producto button:hover {
-	background-color: #9bf765; /* Cambio de color al pasar el ratón */
-	color: #ffffff; /* Texto blanco */
+	background-color: #c4f1aa; /* Cambio de color al pasar el ratón */
+	color: #111010; /* Texto blanco */
 }
 
 .producto p {

@@ -1,0 +1,108 @@
+h1 {
+	text-align: center;
+	color: #7ac750;
+}
+h2 {
+	text-align: center;
+	color: #b3eb92;
+	font-style: italic;
+}
+
+.carrito {
+	background-color: rgba(179, 168, 170, 0.356);
+	display: grid;
+	grid-template-columns: repeat(1, 2fr);
+	text-align: center;
+}
+
+.carrito ul {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	padding-left: 200px;
+	padding-right: 100px;
+	text-align: left;
+	list-style-type: none;
+}
+
+.carrito ul img {
+	height: 200px;
+}
+
+.detalle-producto {
+	color: black;
+	text-align: left;
+}
+
+.detalle-producto h3 {
+	color: #99cf7c;
+	text-align: left;
+}
+
+.detalle-producto input {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+	outline: none;
+	transition: border-color 0.3s;
+	width: 8%;
+}
+
+.eliminar {
+	background-color: #7ac750; /* Fondo gris */
+	color: #ffffff; /* Texto blanco */
+	border: 1px solid #7ac750; /* Borde gris */
+	border-radius: 5px; /* Bordes redondeados */
+	padding: 10px 20px; /* Espacio interno */
+	text-align: center; /* Centrar texto */
+	text-decoration: none; /* Quitar subrayado */
+	display: inline-block; /* Mostrar como elemento en línea */
+	font-size: 16px; /* Tamaño de fuente */
+	cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+	transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+.eliminar:hover {
+	background-color: #c4f1aa; /* Cambio de color al pasar el ratón */
+	color: #111010; /* Texto blanco */
+}
+
+.container {
+	text-align: center;
+	align-items: center;
+	padding-left: 200 px;
+}
+.resumen {
+	text-align: center;
+	padding: 25px;
+	width: 25%;
+	padding-left: 500 px;
+}
+
+.resumen h2 {
+	color: #416d2a;
+}
+
+.resumen ul li {
+	list-style-type: none;
+	text-align: left;
+}
+
+.resumen button {
+	background-color: #7ac750; /* Fondo gris */
+	color: #ffffff; /* Texto blanco */
+	border: 1px solid #7ac750; /* Borde gris */
+	border-radius: 5px; /* Bordes redondeados */
+	padding: 10px 20px; /* Espacio interno */
+	text-align: center; /* Centrar texto */
+	text-decoration: none; /* Quitar subrayado */
+	display: inline-block; /* Mostrar como elemento en línea */
+	font-size: 16px; /* Tamaño de fuente */
+	cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+	transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+.resumen button:hover {
+	background-color: #c4f1aa; /* Cambio de color al pasar el ratón */
+	color: #111010; /* Texto blanco */
+}
