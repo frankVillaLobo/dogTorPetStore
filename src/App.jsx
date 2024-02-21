@@ -5,7 +5,7 @@ import Productos from './components/Productos';
 import Carrito from './components/Carrito';
 import Aboutus from './components/Aboutus';
 import Login from './components/Login';
-import Signin from './components/Signin';
+
 
 function App() {
 	let Component;
@@ -25,9 +25,7 @@ function App() {
 		case '/login':
 			Component = Login;
 			break;
-		case '/signin':
-			Component = Signin;
-			break;
+		
 	}
 	return (
 		<div>
