@@ -1,0 +1,60 @@
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.deps.json
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.dll
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.pdb
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.AssemblyReference.cache
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfoInputs.cache
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfo.cs
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.CopyComplete
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\refint\DogtorpetAPI.Data.dll
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\armad\Documents\Proyectos\Jhojam\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\ref\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.deps.json
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.dll
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.pdb
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.AssemblyReference.cache
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfoInputs.cache
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfo.cs
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\Dogtorpe.EE22264E.Up2Date
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\refint\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\Desktop\Dogotorpet\DogtorpetAPI\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\ref\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.deps.json
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.dll
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.pdb
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.AssemblyReference.cache
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfoInputs.cache
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfo.cs
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\Dogtorpe.EE22264E.Up2Date
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\refint\DogtorpetAPI.Data.dll
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\Desktop\final\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\ref\DogtorpetAPI.Data.dll
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.deps.json
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.dll
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPI.Data.pdb
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.dll
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net6.0\DogtorpetAPIModel.pdb
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.AssemblyReference.cache
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfoInputs.cache
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.AssemblyInfo.cs
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.csproj.CoreCompileInputs.cache
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\Dogtorpe.EE22264E.Up2Date
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.dll
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\refint\DogtorpetAPI.Data.dll
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\DogtorpetAPI.Data.pdb
+D:\Documento ADSO\Documentos 2023-2\DogtorpetAPI-20240223T001209Z-001\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net6.0\ref\DogtorpetAPI.Data.dll

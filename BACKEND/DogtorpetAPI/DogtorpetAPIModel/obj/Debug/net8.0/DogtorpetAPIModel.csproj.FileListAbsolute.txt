@@ -1,0 +1,11 @@
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\bin\Debug\net8.0\DogtorpetAPIModel.deps.json
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\bin\Debug\net8.0\DogtorpetAPIModel.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\bin\Debug\net8.0\DogtorpetAPIModel.pdb
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.AssemblyInfoInputs.cache
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.AssemblyInfo.cs
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\refint\DogtorpetAPIModel.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\DogtorpetAPIModel.pdb
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPIModel\obj\Debug\net8.0\ref\DogtorpetAPIModel.dll

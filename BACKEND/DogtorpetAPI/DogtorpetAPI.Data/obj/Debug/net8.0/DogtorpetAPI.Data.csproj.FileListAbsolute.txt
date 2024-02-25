@@ -1,0 +1,15 @@
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net8.0\DogtorpetAPI.Data.deps.json
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net8.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net8.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net8.0\DogtorpetAPIModel.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\bin\Debug\net8.0\DogtorpetAPIModel.pdb
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.csproj.AssemblyReference.cache
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.AssemblyInfoInputs.cache
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.AssemblyInfo.cs
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\Dogtorpe.EE22264E.Up2Date
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\refint\DogtorpetAPI.Data.dll
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\DogtorpetAPI.Data.pdb
+C:\Users\jhoja\source\repos\DogtorpetAPI\DogtorpetAPI.Data\obj\Debug\net8.0\ref\DogtorpetAPI.Data.dll
