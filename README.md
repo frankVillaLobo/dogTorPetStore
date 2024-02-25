@@ -17,7 +17,7 @@ Esta aplicación web ha sido desarrollada para gestionar las ventas y transaccio
 
 - **Front-end**: React.js
 - **Back-end**: C#
-- **Base de Datos**: [Base de datos utilizada]
+- **Base de Datos**: SQL
 
 ## Configuración del Proyecto
 
