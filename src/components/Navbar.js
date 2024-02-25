@@ -40,11 +40,8 @@ const Navbar = () => {
 							<a href='/carrito'>Carrito</a>
 						</li>
 						<li>
-							<a href='/login'>Log in</a>
-						</li>
-						<li>
-							<a href='/signin'>Sing in</a>
-						</li>
+							<a href='/login'>Registro/Log in</a>
+						</li>					
 					</ul>
 				</div>
 			</nav>
