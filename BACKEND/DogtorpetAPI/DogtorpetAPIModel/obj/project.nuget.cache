@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3Y+3673gPqn4jIQZH9v//4uS6tqC1c880epZgAxrvssKQYX1JBvpdfmMmDH88iOROtF5JWbP4sAxny/iy7EjQ==",
+  "dgSpecHash": "SmNEpVYGDWFKVOjX9nsKi0NS1BkcmrwB4C4ieC7m74BXe+G6iKuhpm/OYCNgDxrwvOWwRd3PTFchi00Sa3JInA==",
   "success": true,
-  "projectFilePath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
+  "projectFilePath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

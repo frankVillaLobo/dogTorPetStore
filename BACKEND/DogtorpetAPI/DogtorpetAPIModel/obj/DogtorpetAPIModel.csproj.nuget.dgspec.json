@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj": {}
+    "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj": {}
   },
   "projects": {
-    "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj": {
+    "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
+        "projectUniqueName": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
         "projectName": "DogtorpetAPIModel",
-        "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
+        "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\DogtorpetAPIModel.csproj",
         "packagesPath": "C:\\Users\\frans\\.nuget\\packages\\",
-        "outputPath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPIModel\\obj\\",
+        "outputPath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPIModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\frans\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\frans\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
         }
       }
     }

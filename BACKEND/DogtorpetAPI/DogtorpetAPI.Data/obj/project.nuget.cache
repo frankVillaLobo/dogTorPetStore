@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G2lsyC4oNCE61BjcEC6GnOWfUKIYQLC7ydxu/dIjJRT5U+ax5R0V0d2G9QNnOTT9qO93/0yTLTT//AHCFtNuRw==",
+  "dgSpecHash": "V6g6c/4Q5zaDakon6MjlDpZpAxnNkPoqtEeS+gYWqyKD928H2m9gs+e8zOkPdMQ2Mk2gNa3sd57D998tg024Kg==",
   "success": true,
-  "projectFilePath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj",
+  "projectFilePath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frans\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\frans\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

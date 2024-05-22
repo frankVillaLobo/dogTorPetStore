@@ -4368,29 +4368,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI\\DogtorpetAPI.csproj",
+      "projectUniqueName": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI\\DogtorpetAPI.csproj",
       "projectName": "DogtorpetAPI",
-      "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI\\DogtorpetAPI.csproj",
+      "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI\\DogtorpetAPI.csproj",
       "packagesPath": "C:\\Users\\frans\\.nuget\\packages\\",
-      "outputPath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI\\obj\\",
+      "outputPath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\frans\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\frans\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj": {
-              "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\DogtorpetAPI-20240223T001209Z-001\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj"
+            "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj": {
+              "projectPath": "D:\\Documento ADSO\\Documentos 2023-2\\proyectosREACT\\dogtor-petstore\\BACKEND\\DogtorpetAPI\\DogtorpetAPI.Data\\DogtorpetAPI.Data.csproj"
             }
           }
         }
@@ -4399,11 +4397,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4450,7 +4443,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
       }
     }
   }
